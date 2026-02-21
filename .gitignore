@@ -130,3 +130,10 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# Visual Studio workspace
+.vs/
+
+# Build artifacts
+bin/
+obj/
