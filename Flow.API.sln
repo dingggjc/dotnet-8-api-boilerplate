@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11512.155 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow.API", "Flow.API\Flow.API.csproj", "{BD83E55C-A212-43A4-B5CE-2AFA007544D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow.Domain", "Flow.Domain\Flow.Domain.csproj", "{42654A67-F455-467D-85E0-518B241E89E7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow.Services", "Flow.Services\Flow.Services.csproj", "{FE82699A-D5C1-4C22-ABD0-36CEB0B1F67C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow.Infrastructure", "Flow.Infrastructure\Flow.Infrastructure.csproj", "{024F3AA5-7807-49D0-B90A-A08E0A4AE086}"
 EndProject
@@ -27,10 +25,6 @@ Global
 		{42654A67-F455-467D-85E0-518B241E89E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42654A67-F455-467D-85E0-518B241E89E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42654A67-F455-467D-85E0-518B241E89E7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FE82699A-D5C1-4C22-ABD0-36CEB0B1F67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE82699A-D5C1-4C22-ABD0-36CEB0B1F67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE82699A-D5C1-4C22-ABD0-36CEB0B1F67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE82699A-D5C1-4C22-ABD0-36CEB0B1F67C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{024F3AA5-7807-49D0-B90A-A08E0A4AE086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{024F3AA5-7807-49D0-B90A-A08E0A4AE086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{024F3AA5-7807-49D0-B90A-A08E0A4AE086}.Release|Any CPU.ActiveCfg = Release|Any CPU
